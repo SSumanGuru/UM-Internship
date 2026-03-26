@@ -1,3 +1,8 @@
 In this repository, I have uploaded two files:
+
+---
 (1)**Amazon Sales Data** - Sales management today is the most important function in a commercial and business enterprise. Sales management has gained importance to meet increasing competition and the need for improved methods of distribution to reduce cost and to increase profits. I have analysed the dataset using Tableau and listed the findings in the report.
+---
+
 (2)**Employee Attrition Data** - XYZ company which was established a few years back is facing around a 15% attrition rate for a couple of years. And it's majorly affecting the company in many aspects. In order to understand why employees are leaving the company and reduce the attrition rate, XYZ company has approached an HR analytics consultancy for analyzing the data they have. Built an advanced dashboard which can help the organization in making data-driven decisions.
+---
